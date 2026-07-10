@@ -15,7 +15,7 @@
             Si concentra sugli effetti essenziali come nebbia dinamica, accumulo di neve e danni da grandine, escludendo il complesso sistema di umidità separato.
         </it>
     </description>
-    <version>1.0.0.0</version>
+    <version>1.1.0.0</version>
     <iconFilename>icon_RealisticWeatherLite.dds</iconFilename>
     <multiplayerSupported>true</multiplayerSupported>
 
